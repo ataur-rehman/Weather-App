@@ -14,9 +14,8 @@ Here are some screenshots of the app in action:
 
 ### Main Screen
 <div align="center">
-  <img src="weather.png" alt="Sun Icon" width="300" style="margin-right: 10px;" />
-
-
+  <img src="weather.jpg" alt="Sun Icon" width="300" style="margin-right: 10px;" />
+<div>
 ## Getting Started
 To run this project locally, follow these steps:
 
