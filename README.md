@@ -10,8 +10,6 @@ A simple weather app built with Flutter that shows the temperature, humidity, an
 
 ## Screenshots
 
-Here are some screenshots of the app in action:
-
 ### Main Screen
   <img src="weather.jpg" alt="Main Screen" width="250" />
   
